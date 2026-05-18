@@ -82,7 +82,7 @@ Build an automated research pipeline that:
 ## Folder Structure (for contributors)
 
 ```
-domain-1-agentic-architecture/
+domain-5-agentic-architecture/
 ├── README.md           ← this file
 ├── version-a/          ← Contributor A's course
 │   ├── lessons/
