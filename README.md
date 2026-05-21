@@ -75,6 +75,8 @@ Each domain folder contains a `README.md` with:
 ## Extra Resources 
 https://www.youtube.com/watch?v=vizgFWixquE
 
+[Claude Certified Architect Exam Explained Before It Goes Public
+](https://www.youtube.com/watch?v=_2bZZw68l4Y)
 https://dynamicbalaji.medium.com/claude-certified-architect-foundations-certification-preparation-guide-c70546b51f51
 
 https://claudecertifications.com/claude-certified-architect/domains
